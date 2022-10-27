@@ -1,0 +1,8 @@
+celery==5.2.7
+Django==4.1
+django-jalali-date==1.0.1
+django-redis==5.2.0
+ipython==8.4.0
+pandas==1.4.3
+python-telegram-bot==20.0a2
+redis==4.3.4
